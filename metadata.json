@@ -1,0 +1,6 @@
+{
+  "name": "Copy of IntelliPrep Exam Platform",
+  "description": "An AI-powered exam preparation platform where users can practice with pre-made exams or generate new quizzes on any topic using Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
